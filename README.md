@@ -1,8 +1,8 @@
 # my_first_github_project
-This is my first GitHub repository.
+This is my first GitHub repository.  
 Dies ist mein erstes GitHub-Repository.
 
-In this repository, a number of test files are created to learn about git.
+In this repository, a number of test files are created to learn about git.  
 In diesem Repository werden mehrere Testdateien erstellt, um Git kennenzulernen.
 
 ## TODOs
@@ -14,5 +14,5 @@ In diesem Repository werden mehrere Testdateien erstellt, um Git kennenzulernen.
 2. Lernen, wie man sich in der Git-Oberfläche zurechtfindet.
 3. Git in der Kommandozeile lernen.
 
-Adding some new lines for testing purposes to the README file.
+Adding some new lines for testing purposes to the README file.  
 Einige neue Zeilen zum Testen in die README-Datei eingefügt.
